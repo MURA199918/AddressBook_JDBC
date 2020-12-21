@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AddressBookServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-21T11:03:39" hostname="DESKTOP-J9DM2GE" time="0.089">
+  <properties/>
+  <testcase name="givenAddressBookEntries_WhenWrittenToFile_ShouldMatchDataEntries" classname="AddressBookServiceTest" time="0.089"/>
+  <system-out><![CDATA[AddressBookData{id=1, firstname='Jeff', lastname='Bezos', address='firstcross', city='mumbai', state='maharashtra', zip=620019, phone=9597231, email='jeff@abc.com'}
+AddressBookData{id=2, firstname='Bill', lastname='Gates', address='Secondcross', city='bangalore', state='karnataka', zip=400076, phone=998855, email='bill@abc.com'}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,2 @@
+¦AddressBookData{id=1, firstname='Jeff', lastname='Bezos', address='firstcross', city='mumbai', state='maharashtra', zip=620019, phone=9597231, email='jeff@abc.com'}
+§AddressBookData{id=2, firstname='Bill', lastname='Gates', address='Secondcross', city='bangalore', state='karnataka', zip=400076, phone=998855, email='bill@abc.com'}
